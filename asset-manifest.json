@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Inventory-Management-frontend/static/css/main.78207a4f.css",
+    "main.js": "/Inventory-Management-frontend/static/js/main.c0f0fdae.js",
+    "static/media/Screenshot 2022-12-14 094641.jpg": "/Inventory-Management-frontend/static/media/Screenshot 2022-12-14 094641.d1f51245a3f4515ae815.jpg",
+    "index.html": "/Inventory-Management-frontend/index.html",
+    "main.78207a4f.css.map": "/Inventory-Management-frontend/static/css/main.78207a4f.css.map",
+    "main.c0f0fdae.js.map": "/Inventory-Management-frontend/static/js/main.c0f0fdae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78207a4f.css",
+    "static/js/main.c0f0fdae.js"
+  ]
+}
